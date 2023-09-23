@@ -13,6 +13,9 @@ function carSpeed(speed){
         }
     }
 }
+
+//Prompt to enter speed
 const speed = parseFloat(prompt('Enter your speed: '));
+
 carSpeed(speed);
 

@@ -1,3 +1,5 @@
+        CODE CHALLENGES
+
 Challenge 1: Student Grade Generator (Toy Problem)
 
 Write a function that prompts the user to input student marks. The input should be between 0 and 100. The output should correspond the correct grade, as shown below: 
@@ -35,3 +37,11 @@ Solution is in the salary.js file
 
 
 AUTHOR : {JOY CHERUTO} {https://github.com/cheruto23}
+
+
+MIT License
+Copyright 2023 Joy Cheruto
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction.
